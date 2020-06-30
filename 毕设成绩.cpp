@@ -12,6 +12,8 @@ struct Teacher
 	string name;
 	Student student[5];
 };
+
+
 void fun1(Teacher arr[], int len)
 {
 	string x = "ABCDE";
